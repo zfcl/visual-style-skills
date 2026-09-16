@@ -1,69 +1,111 @@
 # Visual Style Skills
 
-Reusable AI skills for refined visual design, UI/UX, branding, editorial design, and image generation.
+A public, reusable expression of **my personal visual taste**.
 
-This repository contains two versions of one visual language: **minimal, restrained, quiet, rational, precise, modern, and editorial**.
+This repository is not a neutral all-purpose design manual. It captures one coherent aesthetic system: **minimalist brand design + modern editorial design**, shaped by quiet confidence, strong order, restrained color, precise typography, generous negative space, low visual noise, and high completion quality.
 
-## Skills
+Others are welcome to reuse it, adapt it, or use it as a design-direction layer for AI agents.
+
+## Core aesthetic DNA
+
+The shared visual language is:
+
+- minimalist brand design
+- modern editorial design
+- quiet confidence
+- restrained premium feeling
+- rational, calm, precise, refined
+- strong order, weak decoration
+- content-first design
+- low visual noise
+- high completion quality
+- durable rather than trend-driven
+
+The intended feeling is:
+
+- restrained, but not bland
+- minimal, but not empty
+- premium, but not flashy
+- quiet, but not weak
+- clean, but not sterile
+- editorial, but still usable
+- complex when needed, but always ordered
+- simple when possible, but still powerful
+
+## Two versions
 
 ### `visual-style`
 
-The full system. Use it when the task needs deliberate art direction and detailed control over hierarchy, composition, spacing, typography, color, imagery, material, motion, and final polish.
+The full personal style system.
+
+Use it for deliberate, high-fidelity visual work where composition, typography, spacing, color, material, lighting, density, brand consistency, and final polish all matter.
 
 Best for:
 
-- product and UI/UX design
-- websites, landing pages, dashboards, and applications
-- brand identity and visual systems
-- posters, covers, editorial layouts, reports, and presentations
+- brand design and identity direction
+- websites, landing pages, applications, and UI/UX
+- editorial layouts, reports, covers, posters, and presentations
 - image-generation art direction
-- visual critique, redesign, and refinement
+- design critique and refinement
+- any task where the final visual quality matters more than speed
 
 ### `visual-style-lite`
 
-A compact version of the same aesthetic. It keeps the strongest defaults and removes most explanation and secondary rules.
+A compact version of the same taste.
 
-Best for:
+Use it when context is limited, the task is fast, or you want the aesthetic DNA without carrying the full system.
 
-- small or fast design tasks
-- limited-context agents
-- lightweight system prompts
-- quick visual refinement while keeping consistent taste
+It still preserves the recognizable character: quiet confidence, few colors, more white space, precise typography, clear hierarchy, content-first composition, controlled asymmetry, and strong resistance to generic template aesthetics.
 
-## Difference
+## Shared color behavior
 
-| | `visual-style` | `visual-style-lite` |
-|---|---|---|
-| Core aesthetic | Same | Same |
-| Detail | Full visual system | Condensed essentials |
-| Best for | Complex / high-fidelity work | Fast / small tasks |
-| Coverage | Layout, type, color, imagery, material, motion, QA | Composition, hierarchy, type, color, restraint |
+The default palette is heavily neutral:
+
+- **80%–95% neutrals**
+- **5%–20% restrained accents**
+
+Preferred colors include:
+
+- black
+- white
+- warm white
+- charcoal
+- dark gray
+- cool gray
+- silver gray
+- deep navy
+- mist blue
+- ice blue
+- low-saturation accents
+
+Color is functional. It should clarify hierarchy, state, emphasis, or identity. It should not be added merely because an area feels empty.
 
 ## Usage
 
-Copy the desired `SKILL.md` into your AI agent or skill system, then invoke it for a visual task.
-
-Full version example:
+Full version:
 
 ```text
-Use the visual-style skill to redesign this dashboard.
-Keep all functionality unchanged, but improve hierarchy, spacing,
-typography, density, consistency, and visual coherence.
+Use the visual-style skill.
+Keep the information and functionality, but redesign the visual system around
+quiet confidence, precise typography, strong spacing logic, restrained color,
+and a modern editorial composition.
 ```
 
-Lite version example:
+Lite version:
 
 ```text
-Use visual-style-lite to refine this login page.
-Make it quiet, precise, modern, and editorial.
+Use visual-style-lite.
+Make this cleaner, quieter, more editorial, and more precise.
+Use fewer colors, more negative space, stronger hierarchy, and weaker decoration.
 ```
 
-Image direction example:
+For image direction:
 
 ```text
 Use visual-style to art-direct this image.
-Remove decorative noise, simplify the composition, strengthen the focal point,
-and keep the result restrained, premium, and timeless.
+Prefer matte or fine metallic surfaces, soft directional light, restrained color,
+clean negative space, and one strong focal point. Avoid neon, cheap 3D gloss,
+and generic AI-future styling.
 ```
 
 ## Structure
@@ -77,8 +119,12 @@ skills/
     SKILL.md
 ```
 
-## Design intent
+## What this repository is for
 
-The system deliberately avoids decorative excess, generic gradient-heavy “AI style”, noisy glass effects, arbitrary card nesting, oversized radii, weak hierarchy, visual clutter, and novelty without purpose.
+This repo is **not about making everything look the same**.
 
-The goal is not to make every design look identical. The goal is to make every visual decision feel **intentional, coherent, calm, and exact**.
+It is about making visual decisions feel **intentional, coherent, calm, and exact** through one specific personal taste system.
+
+The system favors typography over decoration, spacing over boxes, alignment over ornament, contrast over shadow, and simplicity over unnecessary complexity.
+
+If an area works better empty, leave it empty.

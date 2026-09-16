@@ -1,54 +1,133 @@
 ---
 name: visual-style-lite
-description: Compact visual direction for minimal, restrained, quiet, rational, precise, modern, editorial design.
+description: A compact version of my personal visual taste system: minimalist brand design, modern editorial design, quiet confidence, restrained color, precise typography, strong spacing logic, low visual noise, and content-first composition.
 ---
 
 # Visual Style Lite
 
-Use for fast UI, branding, layout, presentation, and image-direction work.
+Use this when a task should follow **my visual taste** but needs a shorter prompt.
 
-## Aesthetic
+This is not a generic design checklist. It is a compact form of the same personal aesthetic as `visual-style`.
 
-The result should feel minimal, restrained, quiet, rational, precise, modern, and editorial.
+## Core Taste
 
-Prefer clarity over decoration and structure over effects.
+Aim for:
 
-## Rules
+- minimalist brand design
+- modern editorial design
+- quiet confidence
+- restrained premium feeling
+- rational, calm, precise, refined
+- strong order, weak decoration
+- content-first design
+- low visual noise
+- high completion quality
 
-1. Remove unnecessary elements first.
-2. Create one clear focal point; do not emphasize everything equally.
-3. Use a disciplined grid, exact alignment, and repeated spacing intervals.
-4. Let typography carry hierarchy: few sizes, few weights, controlled line length.
-5. Use whitespace structurally; keep related items close and groups clearly separated.
-6. Use a neutral base with one controlled accent family; bright color should occupy little area.
-7. Do not put everything in cards; prefer spacing, alignment, tonal separation, and thin rules.
-8. Keep radii, borders, shadows, blur, and glow subtle and purposeful.
-9. Prefer one strong image or symbol; crop decisively and remove visual noise.
-10. Preserve useful information. Minimal does not mean empty.
+The result should feel:
 
-## Avoid
+- restrained, not bland
+- minimal, not empty
+- premium, not flashy
+- quiet, not weak
+- clean, not sterile
+- editorial, but still usable
+- complex when needed, but always ordered
 
-- excessive gradients or glass effects
-- glow everywhere
-- nested cards
-- giant rounded rectangles
-- random blobs or particles
+## Visual Priorities
+
+Build hierarchy mainly through:
+
+1. typography
+2. spacing
+3. scale
+4. alignment
+5. contrast
+6. position
+
+Do not rely on cards, colors, shadows, glow, or decoration to create structure.
+
+Use large negative space when it strengthens the composition.
+
+If an area works better empty, leave it empty.
+
+## Color
+
+Default behavior:
+
+- **80%–95% neutrals**
+- **5%–20% restrained accents**
+
+Prefer black, white, warm white, charcoal, dark gray, cool gray, silver gray, deep navy, mist blue, ice blue, and other low-saturation accents.
+
+Every color must have a function.
+
+If typography solves the problem, do not add more color.
+
+## Composition
+
+Prefer:
+
+- one clear focal point
+- precise typography
+- strong alignment
+- strong spacing logic
+- controlled asymmetry
+- fewer, stronger elements
+- complex but ordered compositions
+
+One strong element is better than five mediocre elements.
+
+If white space solves the problem, do not add a box.
+
+If alignment solves the problem, do not add decoration.
+
+If contrast solves the problem, do not add shadow.
+
+If a simple solution works, do not complicate it.
+
+## Material and Light
+
+When imagery or materials matter, prefer:
+
+- matte finishes
+- silver tones
+- restrained glass
+- paper-like surfaces
+- fine metallic surfaces
+- natural textures
+- soft directional light
+- subtle rim light
+- diffused light
+- soft shadows
+
+Avoid plastic surfaces, overly shiny metal, harsh reflections, cheap 3D gloss, obvious AI plasticity, neon glow walls, and full-scene glow effects.
+
+## Avoid by Default
+
+Avoid:
+
+- clutter
+- over-decoration
+- generic SaaS or dashboard-template styling
+- cyberpunk
+- neon-heavy visuals
+- gaming UI
+- excessive glassmorphism
+- too many gradients
 - too many accent colors
-- too many fonts or weights
-- weak hierarchy
-- decorative complexity without purpose
-- generic futuristic styling
+- too many cards or nested cards
+- strong shadows
+- glow-heavy effects
+- oversized radii everywhere
+- meaningless particles or decorative lines
+- blue-purple cliché “AI future” gradients
+- novelty without purpose
+- anything that sacrifices readability
 
-## Refinement Order
+## Final Target
 
-1. remove
-2. hierarchy
-3. composition and alignment
-4. spacing and density
-5. typography
-6. color and contrast
-7. effects only if still necessary
+The result should feel like a **quiet, highly resolved piece of minimalist brand design or modern editorial design**.
 
-## Final Check
+Use fewer, stronger decisions.
 
-The result should feel intentional, coherent, calm, exact, and art-directed rather than template-driven.
+Keep it intentional, coherent, calm, exact, content-first, and recognizably restrained.

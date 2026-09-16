@@ -1,380 +1,477 @@
 ---
 name: visual-style
-description: A complete visual direction system for creating refined, minimal, restrained, quiet, rational, precise, modern, editorial design across UI/UX, branding, layouts, presentations, and image generation.
+description: A full personal visual taste system centered on minimalist brand design, modern editorial design, quiet confidence, restrained premium feeling, precise typography, strong spacing logic, low visual noise, and content-first composition.
 ---
 
 # Visual Style
 
-Use this skill whenever the task involves visual design, visual refinement, art direction, UI/UX, branding, editorial composition, presentation design, or image-generation aesthetics.
+## Purpose
+
+Use this skill when a visual task should follow **my personal taste**, not a neutral all-purpose design system.
+
+This style is built around **minimalist brand design + modern editorial design**. It favors quiet confidence, strong order, precise typography, restrained color, generous negative space, low visual noise, and a high level of completion.
+
+The goal is not maximum minimalism. The goal is **controlled visual power**: simple when possible, complex when necessary, but always ordered.
 
 ## Core Aesthetic
 
 The visual language should feel:
 
-- minimal
-- restrained
-- quiet
-- rational
-- precise
-- modern
+- minimalist
 - editorial
+- quiet
+- confident
+- rational
+- calm
+- precise
+- refined
+- restrained
+- premium without being flashy
+- modern without chasing trends
+- content-first
 
-The design should feel intentional rather than decorated, premium rather than luxurious, and calm rather than empty.
+The target feeling is:
 
-Do not chase novelty for its own sake. Prefer lasting visual clarity over fashionable effects.
+- restrained, but not bland
+- minimal, but not empty
+- premium, but not flashy
+- quiet, but not weak
+- clean, but not sterile
+- editorial, but still usable
+- complex when needed, but always ordered
+- simple when possible, but still powerful
 
-## Primary Principle
+## Personal Taste Profile
 
-Every visible element must justify its presence.
+Prefer:
 
-Before adding something, ask whether it improves one of these:
+- large negative space
+- clear visual hierarchy
+- precise typography
+- strong alignment
+- strong spacing logic
+- low visual noise
+- very few unnecessary elements
+- restrained color usage
+- controlled asymmetry
+- complex but ordered compositions
+- calm, durable aesthetics
+- one strong idea carried through consistently
+
+Avoid trying to make a design feel “designed” by adding more visible design.
+
+A strong result often comes from subtraction, proportion, rhythm, type, spacing, and restraint.
+
+## Hierarchy
+
+Hierarchy should come mainly from:
+
+1. typography
+2. spacing
+3. scale
+4. alignment
+5. contrast
+6. position
+
+Color is secondary. Decoration is tertiary.
+
+Do not create hierarchy primarily through:
+
+- too many cards
+- too many colors
+- decorative objects
+- heavy shadows
+- glow
+- loud effects
+- large numbers of badges, pills, or floating panels
+
+The eye should understand the order of importance quickly, even in grayscale.
+
+## White Space
+
+White space is structural, not decorative.
+
+Use it to create hierarchy, separation, pacing, calm, and confidence.
+
+Rules:
+
+- If an area works better empty, leave it empty.
+- If white space solves the problem, do not add a box.
+- Do not fill empty space merely because it exists.
+- Give important elements enough room to feel intentional.
+- Use tighter spacing within a semantic group and larger spacing between groups.
+- Do not confuse generous space with random oversized gaps.
+
+Negative space should feel measured, not accidental.
+
+## Color
+
+Default color behavior:
+
+- **80%–95% neutrals**
+- **5%–20% restrained accents**
+
+Preferred colors:
+
+- black
+- white
+- warm white
+- charcoal
+- dark gray
+- cool gray
+- silver gray
+- deep navy
+- mist blue
+- ice blue
+- low-saturation accents
+
+Color rules:
+
+- Every color must have a clear function.
+- Use color for hierarchy, state, emphasis, identity, or navigation.
+- Do not add color just because a layout feels empty.
+- Accents should be rare and deliberate.
+- Prefer deep, muted, cool, or low-saturation tones over loud palettes.
+- Keep large surfaces neutral unless the concept genuinely depends on color.
+- If typography solves the problem, do not add more color.
+
+Avoid by default:
+
+- rainbow palettes
+- multiple competing accent colors
+- blue-purple cliché “AI future” gradients
+- neon-heavy palettes
+- oversaturated tech colors
+- decorative gradients with no functional role
+
+## Typography
+
+Typography is one of the strongest design tools in this system.
+
+Treat type as structure, not decoration.
+
+Prefer:
+
+- clean, contemporary, highly legible typefaces
+- a small, disciplined type scale
+- precise hierarchy between display, heading, body, metadata, and labels
+- few weights used with purpose
+- controlled line length
+- deliberate line height
+- careful letter spacing
+- strong baseline and edge alignment
+- sentence case unless the concept clearly benefits from another treatment
+
+Use contrast in size, weight, spacing, and placement before adding graphic effects.
+
+Rules:
+
+- If typography solves the problem, stop there.
+- One strong typographic gesture is better than five mediocre decorative gestures.
+- Avoid making every heading large and bold.
+- Avoid too many font families or weights.
+- Avoid weak gray-on-gray text that sacrifices readability for softness.
+
+## Composition
+
+Composition should feel deliberate, ordered, and art-directed.
+
+Prefer:
+
+- one clear focal point
+- strong alignment
+- disciplined grids
+- controlled asymmetry
+- deliberate scale contrast
+- meaningful negative space
+- clear grouping
+- visual rhythm
+- a strong relationship between content blocks
+
+Complexity is allowed when it is ordered.
+
+A dense or multi-layered composition can still fit this style if the reading order remains obvious.
+
+Rules:
+
+- One strong element is better than five mediocre elements.
+- If alignment solves the problem, do not add decoration.
+- Break the grid only when the break creates meaningful tension.
+- Avoid accidental near-alignments.
+- Avoid centering everything by default.
+- Avoid distributing elements evenly merely to fill space.
+
+## Element Count
+
+Use fewer elements, but make each one carry more weight.
+
+Before adding an element, ask whether it improves:
 
 - hierarchy
 - comprehension
 - navigation
-- rhythm
 - emphasis
+- rhythm
 - identity
 
-If it does not, remove it.
+If not, remove it.
 
-## Composition
+Prefer one strong image, one strong symbol, one strong typographic gesture, or one clear accent over several weaker ones.
 
-Build the design around a clear dominant structure.
+## Decoration
 
-- Establish one obvious focal point.
-- Use strong alignment and deliberate geometry.
-- Prefer asymmetry when it creates tension or editorial character, but keep the underlying grid disciplined.
-- Avoid evenly distributing visual weight merely to fill space.
-- Allow meaningful negative space around important elements.
-- Keep related elements visually close and unrelated elements clearly separated.
-- Use repetition carefully to create rhythm, not monotony.
+Decoration should be weak relative to structure.
 
-A composition should remain understandable in grayscale and at a glance.
-
-## Hierarchy
-
-Create hierarchy with as few variables as possible.
-
-Prefer this order of tools:
-
-1. scale
-2. position
-3. spacing
-4. weight
-5. contrast
-6. color
-
-Do not make every section equally loud.
-
-The eye should know where to look first, second, and third without effort.
-
-## Grid and Alignment
-
-Use a coherent grid even when the result appears freeform.
-
-- Align edges aggressively.
-- Reuse spacing intervals.
-- Keep baselines consistent.
-- Avoid accidental near-alignments.
-- Prefer a small set of column widths and content widths.
-- Break the grid only when the break is visually meaningful.
-
-Precision is part of the aesthetic.
-
-## Spacing
-
-Whitespace is structural, not decorative.
-
-Use spacing to communicate grouping and importance.
-
-- Prefer fewer, larger spacing decisions over many arbitrary gaps.
-- Use compact spacing inside a component and larger spacing between semantic groups.
-- Avoid filling every empty region.
-- Avoid excessively airy interfaces that reduce information density without increasing clarity.
-
-The result should feel breathable but efficient.
-
-## Typography
-
-Typography carries most of the personality.
-
-- Prefer clean, contemporary typefaces with excellent legibility.
-- Use a limited type scale.
-- Use weight sparingly.
-- Avoid excessive bold text.
-- Avoid decorative fonts unless the task genuinely requires them.
-- Keep line length controlled.
-- Use generous but not exaggerated line height.
-- Apply letter spacing deliberately, especially for labels and display text.
-- Prefer sentence case unless a specific editorial treatment calls for otherwise.
-
-Headlines should feel composed, not merely enlarged.
-
-Body text should be easy to scan and visually quiet.
-
-## Color
-
-Use color as information and identity, not as filler.
-
-Default approach:
-
-- restrained neutral base
-- high-quality text contrast
-- one primary accent family
-- optional secondary functional colors only when required
-
-Prefer muted, deep, or controlled colors over highly saturated palettes.
-
-Avoid:
-
-- rainbow palettes without semantic need
-- multiple competing accent colors
-- generic neon-on-black “AI” aesthetics
-- large decorative gradients
-- gradients used to compensate for weak composition
-
-When using a bright accent, keep its total visual area small.
-
-## Surfaces and Containers
-
-Do not automatically put everything inside a card.
-
-Use containers only when they improve grouping, interaction, or hierarchy.
+Use decorative elements only when they reinforce identity or composition.
 
 Prefer:
 
-- flat structure
-- subtle tonal separation
-- thin rules
-- spacing
-- alignment
-
-before adding:
-
-- shadows
-- borders
-- raised panels
-- nested cards
-
-Avoid excessive card nesting.
-
-## Corners
-
-Use border radius conservatively.
-
-- Small to medium radii are usually enough.
-- Do not round every object by default.
-- Avoid oversized pill shapes unless the object is genuinely a pill, tag, toggle, or compact control.
-- Match radius to the visual system rather than using one fashionable value everywhere.
-
-## Borders and Dividers
-
-Use borders quietly.
-
-- Low contrast is usually better than heavy outlines.
-- Prefer one-pixel rules where technically appropriate.
-- Use dividers only where spacing alone is insufficient.
-- Avoid boxing every region.
-
-## Shadows and Depth
-
-Depth should be subtle and purposeful.
-
-Use shadows mainly for:
-
-- overlays
-- floating controls
-- elevation that communicates interaction
-
-Avoid large blurred shadows used purely for decoration.
-
-If hierarchy can be achieved by spacing, contrast, or layering, prefer those first.
-
-## Glass and Blur
-
-Use translucency only when context behind the surface matters.
-
-Avoid generic glassmorphism.
-
-If blur is used:
-
-- keep it subtle
-- maintain readable contrast
-- avoid stacking multiple translucent layers
-- do not combine heavy blur, bright borders, gradients, and glow unless the task explicitly demands a stylized effect
-
-## Imagery
-
-Images should have a clear compositional role.
-
-- Prefer one strong image over several mediocre ones.
-- Crop decisively.
-- Preserve clean negative space where text must coexist with imagery.
-- Match image contrast and color temperature to the surrounding design.
-- Avoid generic stock-photo energy.
-- Avoid visual clutter behind important text.
-
-For generated images, direct the model toward controlled composition, material realism, restrained lighting, and a clear subject hierarchy.
-
-## Icons
-
-Icons should be simple, consistent, and subordinate to content.
-
-- Use one icon family or one coherent drawing language.
-- Keep stroke weight consistent.
-- Do not mix filled, outlined, skeuomorphic, and illustrative icons casually.
-- Avoid using icons where plain text is clearer.
-
-## Data Visualization
-
-Prioritize comprehension over spectacle.
-
-- Reduce chart ink.
-- Highlight the important series and mute the rest.
-- Avoid unnecessary 3D, gradients, glows, and decorative backgrounds.
-- Keep axes and labels quiet but legible.
-- Use color semantically and consistently.
-- Prefer direct labeling when it reduces lookup effort.
-
-## UI Controls
-
-Controls should look usable without becoming visually dominant.
-
-- Maintain clear states: default, hover, focus, active, disabled, error, success.
-- Use size and contrast consistently across control types.
-- Keep primary actions visually clear and secondary actions quieter.
-- Avoid turning every action into a filled button.
-- Avoid too many simultaneous primary actions.
-
-## Density
-
-Do not confuse minimalism with low information density.
-
-A refined interface can be information-rich.
-
-- Remove visual noise before removing useful information.
-- Compress repeated structures.
-- Use hierarchy to make dense content scannable.
-- Preserve enough whitespace to separate semantic groups.
-
-## Editorial Character
-
-When appropriate, borrow from high-quality editorial design:
-
-- disciplined grids
-- strong typographic contrast
-- confident whitespace
-- intentional cropping
-- asymmetrical balance
+- subtle rules
+- quiet dividers
+- restrained texture
+- controlled cropping
 - small metadata
-- quiet rules and captions
-- controlled rhythm across sections
+- precise micro-details
 
-The result should feel art-directed rather than template-generated.
+Avoid decorative lines, particles, shapes, glows, or floating objects that exist only to make the design look more “designed”.
 
-## Brand Character
+If alignment solves the problem, do not add decoration.
 
-For branding, aim for recognition through reduction.
+If contrast solves the problem, do not add shadow.
 
-- Build around one memorable idea.
-- Prefer simple silhouettes.
-- Remove secondary details aggressively.
-- Ensure the mark works at small sizes and in monochrome.
-- Avoid literal illustrations unless explicitly required.
-- Avoid generic tech symbols, random orbit lines, abstract swooshes, and excessive glow.
+If a simple solution works, do not complicate it.
 
-A strong identity should remain recognizable after effects are removed.
+## Material / Surface Quality
 
-## Motion
+When material direction matters, prefer:
 
-Motion should explain state or hierarchy.
+- matte finishes
+- silver tones
+- restrained glass
+- paper-like quality
+- fine metallic surfaces
+- natural textures
+- subtle grain when appropriate
+- tactile but controlled surfaces
 
-- Keep transitions short and controlled.
-- Prefer opacity, position, scale, and masking over complex effects.
-- Avoid perpetual decorative movement.
-- Use easing that feels natural and precise.
-- Respect reduced-motion preferences where applicable.
-
-## Image Generation Direction
-
-When creating or refining an image, translate the same design principles into visual art direction.
-
-Prefer:
-
-- one dominant subject
-- clean silhouette
-- controlled lighting
-- restrained palette
-- realistic or deliberately chosen materials
-- meaningful negative space
-- precise framing
-- subtle atmosphere
-- low visual noise
+The material should feel refined and believable, not synthetic for its own sake.
 
 Avoid:
 
-- unnecessary particles
-- excessive glow
-- random floating objects
-- over-detailed backgrounds
-- oversaturated cinematic grading
-- decorative text unless requested
-- “futuristic” clutter used as a substitute for concept
+- plastic look
+- overly shiny metal
+- harsh reflections
+- cheap 3D feel
+- obvious AI plasticity
+- exaggerated chrome
+- glossy surfaces everywhere
 
-## Anti-Patterns
+## Light
 
-Actively remove these unless the brief explicitly requires them:
+Preferred lighting:
 
-- excessive gradients
+- soft directional light
+- subtle rim light
+- diffused light
+- soft shadows
+- controlled highlight rolloff
+
+Lighting should reveal form quietly.
+
+Avoid:
+
+- multi-direction hard lighting
+- neon glow walls
+- overexposed FX lighting
+- full-scene glow effects
+- excessive bloom
+- hard specular reflections everywhere
+
+The image should not rely on lighting effects to create interest when composition is weak.
+
+## Radius / Shadow / Border
+
+Use all three conservatively.
+
+### Radius
+
+- Prefer small to medium radii.
+- Do not round every object by default.
+- Avoid giant rounded rectangles everywhere.
+- Use pills only when the object is genuinely a pill, tag, compact status, or control.
+
+### Shadow
+
+- Use shadow only when elevation or separation needs to be communicated.
+- Prefer subtle, soft shadows.
+- Avoid strong floating-card shadows.
+- If contrast solves the problem, do not add shadow.
+
+### Border
+
+- Prefer thin, quiet borders.
+- Use borders to clarify structure, not to box every region.
+- When spacing is enough, skip the border.
+
+## Dense Content
+
+This style does not require low information density.
+
+Dense content can still feel calm when it has:
+
+- strong hierarchy
+- repeated spacing logic
+- consistent alignment
+- clear grouping
+- restrained color
+- clean typography
+- predictable interaction patterns
+
+Do not remove useful information just to make a screen look minimal.
+
+Remove visual noise before removing content.
+
+The target is **complex but ordered**, not empty.
+
+## Brand Consistency
+
+Treat the design as one visual system, not a collection of individually styled sections.
+
+Maintain consistency in:
+
+- spacing rhythm
+- type scale
+- alignment
+- accent behavior
+- radius
+- line weight
+- surface treatment
+- icon style
+- image treatment
+- tone of contrast
+
+A premium result usually comes from repetition and restraint, not constant variation.
+
+## Adapt to the Medium
+
+Keep the aesthetic DNA consistent, but adapt execution to the medium.
+
+### UI / Product
+
+Prioritize usability, information hierarchy, density, state clarity, and interaction consistency.
+
+### Brand / Identity
+
+Prioritize reduction, recognition, silhouette, spacing, proportion, and timelessness.
+
+### Editorial / Presentation
+
+Prioritize grid, type hierarchy, pacing, asymmetry, image crop, captions, and rhythm.
+
+### Image Generation
+
+Prioritize one focal point, controlled framing, believable materials, soft light, restrained color, negative space, and low visual noise.
+
+Do not force the exact same layout language onto every medium.
+
+## Avoid by Default
+
+Avoid unless the brief explicitly requires them:
+
+- clutter
+- over-decoration
+- loud visual noise
+- cheap “tech” styling
+- generic template feel
+- dashboard-template aesthetics
+- generic SaaS template feel
+- cyberpunk
+- neon-heavy visuals
+- gaming UI
 - excessive glassmorphism
-- glow everywhere
-- card inside card inside card
-- giant rounded rectangles
-- random floating blobs
-- decorative grid lines without function
+- too many gradients
+- too many accent colors
+- too many cards
+- nested cards
+- strong shadows
+- glow-heavy effects
+- oversized radii everywhere
 - meaningless particles
-- multiple font families without purpose
-- too many font weights
-- center-aligning long-form content
-- equal emphasis on everything
-- excessive badges and pills
-- overly soft low-contrast interfaces
-- generic startup landing-page clichés
+- meaningless decorative lines
+- blue-purple cliché “AI future” gradients
+- novelty without purpose
+- style that sacrifices readability
 - fake complexity
-- visual effects used to hide weak structure
+- obvious AI plasticity
 
-## Decision Order
+## Decision Rules
 
-When refining a design, work in this order:
+Use these rules aggressively:
 
-1. remove unnecessary elements
-2. fix information hierarchy
-3. fix composition and alignment
-4. fix spacing and density
-5. fix typography
-6. fix color and contrast
-7. refine surfaces and controls
-8. refine imagery and iconography
-9. add motion or effects only if still needed
+- One strong element is better than five mediocre elements.
+- If an area works better empty, leave it empty.
+- White space is structural, not decorative.
+- If typography solves the problem, do not add more color.
+- If white space solves the problem, do not add a box.
+- If alignment solves the problem, do not add decoration.
+- If contrast solves the problem, do not add shadow.
+- If a simple solution works, do not complicate it.
+- If an effect does not improve meaning, hierarchy, usability, or identity, remove it.
+- If a composition is complex, make the order stronger rather than simplifying blindly.
 
-Do not begin with decoration.
+## Reusable Prompting Pattern
 
-## Final Quality Check
+Use this pattern when applying the skill:
+
+```text
+Use the visual-style system.
+
+Keep the content and functional requirements intact.
+Rebuild the visual direction around minimalist brand design and modern editorial design.
+Use quiet confidence, strong order, precise typography, generous negative space,
+80–95% neutrals with restrained accents, and weak decoration.
+
+Create one clear focal point.
+Prefer typography, spacing, scale, alignment, contrast, and position over cards,
+shadows, gradients, glow, or decorative elements.
+
+If materials or imagery are involved, prefer matte, silver, paper-like, fine metallic,
+or restrained glass surfaces with soft directional or diffused light.
+
+Avoid generic SaaS templates, dashboard-template styling, cyberpunk, neon,
+blue-purple AI gradients, excessive cards, oversized radii, cheap 3D gloss,
+and obvious AI plasticity.
+
+The final result should feel restrained but not bland, minimal but not empty,
+premium but not flashy, quiet but not weak, and complex only when ordered.
+```
+
+## Final Self-Check
 
 Before finalizing, verify:
 
-- Is the primary focal point obvious?
-- Is every element necessary?
-- Is alignment precise?
-- Is spacing systematic?
-- Is hierarchy visible without relying on color?
-- Is typography doing most of the visual work?
-- Is accent color restrained?
-- Are containers and effects genuinely necessary?
-- Does the design still work in grayscale?
-- Does it feel calm rather than empty?
-- Does it feel premium rather than flashy?
-- Does it feel designed rather than generated?
+- Is there one clear focal point?
+- Is the hierarchy carried mainly by type, spacing, scale, alignment, contrast, and position?
+- Is the composition ordered even if it is complex?
+- Is there enough negative space?
+- Is every color functional?
+- Is the accent usage restrained?
+- Could any card, border, shadow, line, gradient, or decorative object be removed?
+- Does the typography feel precise and intentional?
+- Are materials believable and refined rather than plastic or glossy?
+- Is the lighting soft and controlled?
+- Does the design avoid generic SaaS, dashboard, gaming, cyberpunk, and AI-future clichés?
+- Is readability stronger than style effects?
+- Does the work feel calm, exact, and highly finished?
 
-If the answer to the last question is no, simplify again.
+If the result feels busy, flashy, generic, over-styled, or trend-driven, simplify and reorder it.
+
+## Final Target
+
+The final work should feel like **a quiet, highly resolved piece of minimalist brand design or modern editorial design**.
+
+It should communicate confidence through proportion, typography, spacing, order, restraint, and completion quality rather than visual noise.
+
+The target is not “less design”.
+
+The target is **fewer, stronger decisions**.
