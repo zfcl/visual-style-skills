@@ -211,8 +211,7 @@
   const riderBody=document.getElementById('rider-body');
   const play=document.getElementById('play');
   const speedButtons=[...document.querySelectorAll('.speed')];
-  const reduced=matchMedia('(prefers-reduced-motion: reduce)');
-  let speed=1, playing=!reduced.matches, raf=0, last=0, phase=0, wheel=0, travel=0;
+  let speed=1, playing=true, raf=0, last=0, phase=0, wheel=0, travel=0;
   function n(v){return Number(v.toFixed(6));}
   function solveLeg(hip,foot,bend){
     const dx=foot.x-hip.x, dy=foot.y-hip.y;
@@ -265,7 +264,6 @@
     raf=requestAnimationFrame(frame);
   }
   function start(){
-    if(reduced.matches)return;
     if(playing&&raf)return;
     playing=true; last=0;
     play.setAttribute('aria-pressed','true');
@@ -284,10 +282,9 @@
     speed=Number(btn.dataset.speed)||1;
     speedButtons.forEach(x=>x.setAttribute('aria-pressed',String(x===btn)));
   }));
-  reduced.addEventListener('change',e=>{ if(e.matches){stop();update(0);} else{start();} });
   document.addEventListener('visibilitychange',()=>{
     if(document.hidden){if(raf)cancelAnimationFrame(raf);raf=0;last=0;}
-    else if(playing&&!reduced.matches){raf=requestAnimationFrame(frame);}
+    else if(playing){raf=requestAnimationFrame(frame);}
   });
   update(0);
   if(playing)raf=requestAnimationFrame(frame); else stop();
